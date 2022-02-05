@@ -1,8 +1,6 @@
 <h1 align="center">Smart Camp App</h1>
 <p align="center">Aplicativo de controle de campo</p>
 
-Tabela de conteúdos
-=================
 <!--ts-->
    * [Sobre](#sobre)
    * [Pre Requisitos](#pré-requisitos)
