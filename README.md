@@ -26,9 +26,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/jefersoncmn"><img style="border-radius: 50%;" src="./github/jefersonphoto.jpeg" width="100px;" alt=""/><br/><sub><b>Jeferson Carlos Martin</b></sub></a><br /><a href="https://github.com/jefersoncmn" title="Jeferson Carlos Martin"></a>
+    <td align="center"><a href="https://github.com/jefersoncmn"><img style="border-radius: 50%;" src="./public/jefersonphoto.jpeg" width="100px;" alt=""/><br/><sub><b>Jeferson Carlos Martin</b></sub></a><br /><a href="https://github.com/jefersoncmn" title="Jeferson Carlos Martin"></a>
     </td>
-    <td align="center"><a href="https://github.com/rafaelomodei"><img style="border-radius: 50%;" src="./github/rafaelphoto.jfif" width="100px;" alt=""/><br/><sub><b>Rafael Omodei</b></sub></a><br /><a href="https://github.com/rafaelomodei" title="Rafael Omodei"></a>
+    <td align="center"><a href="https://github.com/rafaelomodei"><img style="border-radius: 50%;" src="./public/rafaelphoto.jfif" width="100px;" alt=""/><br/><sub><b>Rafael Omodei</b></sub></a><br /><a href="https://github.com/rafaelomodei" title="Rafael Omodei"></a>
     </td>
 </table>
 
