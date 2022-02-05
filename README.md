@@ -1,16 +1,33 @@
-# smart_camp
+<h1 align="center">Smart Camp App</h1>
+<p align="center">Aplicativo de controle de campo</p>
 
-A new Flutter project.
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#sobre)
+   * [Pre Requisitos](#pré-requisitos)
+   * [Autores](#autores)
+<!--te-->
 
-## Getting Started
+### Sobre
 
-This project is a starting point for a Flutter application.
+Esse projeto se tem o objetivo de desenvolver um aplicativo para controle de dispositivos IOT e monitoramento de operações em campo.
 
-A few resources to get you started if this is your first Flutter project:
+### Pré-requisitos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:<br>
+- [Git](https://git-scm.com);<br>
+- [VSCode](https://code.visualstudio.com/) ou algum outro programa para realizar a edição de código.
+- [Fluter](https://docs.flutter.dev/get-started/install) Versão *2.10.0-1.0.pre.334*.
+- [Dart] Versão *2.17.0*.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<h2 align="center">Autores<h3/>
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/jefersoncmn"><img style="border-radius: 50%;" src="./github/jefersonphoto.jpeg" width="100px;" alt=""/><br/><sub><b>Jeferson Carlos Martin</b></sub></a><br /><a href="https://github.com/jefersoncmn" title="Jeferson Carlos Martin"></a>
+    </td>
+    <td align="center"><a href="https://github.com/rafaelomodei"><img style="border-radius: 50%;" src="./github/rafaelphoto.jfif" width="100px;" alt=""/><br/><sub><b>Rafael Omodei</b></sub></a><br /><a href="https://github.com/rafaelomodei" title="Rafael Omodei"></a>
+    </td>
+</table>
