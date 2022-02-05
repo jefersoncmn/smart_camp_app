@@ -31,3 +31,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     <td align="center"><a href="https://github.com/rafaelomodei"><img style="border-radius: 50%;" src="./github/rafaelphoto.jfif" width="100px;" alt=""/><br/><sub><b>Rafael Omodei</b></sub></a><br /><a href="https://github.com/rafaelomodei" title="Rafael Omodei"></a>
     </td>
 </table>
+
